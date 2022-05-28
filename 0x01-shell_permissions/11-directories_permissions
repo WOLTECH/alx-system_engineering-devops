@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x Sub
+chmod ugo+x /0x00-shell_permissions/11-directories_permissions/
